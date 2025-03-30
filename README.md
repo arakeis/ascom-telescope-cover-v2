@@ -1,4 +1,17 @@
-# ASCOM-Compatible Telescope Cover
+# ASCOM-Compatible Telescope Cover (WIP)
+
+Fork of the great project from Julien.
+Here is my roadmap :
+1. Achieve a working clone on my breadboard
+2. Add manual buttons (open close ...)
+3. Add EL instead of bulbs
+4. Modify the ASCOM driver to work with enhencement
+5. Try (a bold one) to implement a INDI driver for the hardware
+
+
+
+   BELOW ORIGINAL README FROM https://github.com/jlecomte/ascom-telescope-cover-v2?tab=readme-ov-file
+
 
 I do not charge anything to create and maintain these open-source projects. But if you would like to say "thanks" for this project, feel free to send any amount through Paypal using the button below. I appreciate your support!
 
