@@ -2,6 +2,7 @@
 
 Fork of the great project from Julien.
 Here is my roadmap :
+<pre>
 1. Achieve a working clone on my breadboard ......................... [WIP]
 2. Modify the 3D models for small appertures   ...................... [WIP]
 3. Modify the 3D models for EL....................................... [TODO]
@@ -10,7 +11,7 @@ Here is my roadmap :
 6. Modify the Arduino firmware to use the manual button.............. [TODO]
 7. Modify the ASCOM driver to work with enhancement.................. [TODO]
 8. Try (a bold one) to implement a INDI driver for the hardware...... [TODO]
-
+</pre>
 
 
    BELOW ORIGINAL README FROM https://github.com/jlecomte/ascom-telescope-cover-v2?tab=readme-ov-file
