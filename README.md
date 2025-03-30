@@ -2,11 +2,14 @@
 
 Fork of the great project from Julien.
 Here is my roadmap :
-1. Achieve a working clone on my breadboard
-2. Add manual buttons (open close ...)
-3. Add EL instead of bulbs
-4. Modify the ASCOM driver to work with enhancement
-5. Try (a bold one) to implement a INDI driver for the hardware
+1. Achieve a working clone on my breadboard ......................... [WIP]
+2. Modify the 3D models for small appertures   ...................... [WIP]
+3. Modify the 3D models for EL....................................... [TODO]
+4. Add manual buttons (open close ...)............................... [TODO]
+5. Modify the Arduino firmware to use the EL/pwm flat panel.......... [TODO]
+6. Modify the Arduino firmware to use the manual button.............. [TODO]
+7. Modify the ASCOM driver to work with enhancement.................. [TODO]
+8. Try (a bold one) to implement a INDI driver for the hardware...... [TODO]
 
 
 
@@ -20,7 +23,7 @@ I do not charge anything to create and maintain these open-source projects. But 
 <!-- toc -->
 
 - [Introduction](#introduction)
-- [Finished Product](#finished-product)
+- [Finished Product](#finished-product)..
 - [Demo](#demo)
 - [Pre-Requisites](#pre-requisites)
 - [Hardware / BOM](#hardware--bom)
