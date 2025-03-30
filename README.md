@@ -5,7 +5,7 @@ Here is my roadmap :
 1. Achieve a working clone on my breadboard
 2. Add manual buttons (open close ...)
 3. Add EL instead of bulbs
-4. Modify the ASCOM driver to work with enhencement
+4. Modify the ASCOM driver to work with enhancement
 5. Try (a bold one) to implement a INDI driver for the hardware
 
 
